@@ -1,0 +1,43 @@
+[Resumo do Jogo]
+Inglaterra. 1820. Fim da Revolução Industrial.
+O terror se espalha nas ruas, tomando conta de todos os lugares, sem deixar espaço
+para os humanos. Cansado de ser submisso às criaturas da noite, um caçador
+misterioso emerge das sombras, para dizimar as criaturas e salvar Inglaterra do
+horror...
+
+[Após entrar na Dungeon]
+Enquanto o caçador caminha nas ruas escuras, ele se depara com um antigo
+Casarão Abandonado, ele decide entrar, e agora enfrentará as consequências...
+
+[Enfrentando Boss Dungeon]
+O caçador se depara com uma sala lotada de velas acesas, de repente, elas se
+apagam e começam a se fundir, criando uma criatura grotesta, se chamada
+Madame Blackwood, a Senhora das Velas...
+
+[Após a morte]
+Após a morte de Blackwood, o caçador, ofegante, se depara com um báu
+encharcado de cera, ele então comemora a sua vitória e a sua conquista. Alegre,
+ ele sai do casarão.
+
+[Iniciando a batalha contra Jack]
+Ao caminhar, o caçador se depara com um homem alto com uma máscara
+da peste, com certeza, um inimigo, então o caçador se prepara para a batalha
+enquanto ele sente o cheiro de sangue no ar...
+
+[Após matar Jack, o decepador de sangue]
+Jack, mais conhecido como decepador de sangue foi morto após essa batalha,
+agora, o caçador conseguiu salvar essa rua e trazer mais esperança para os
+moradores da Inglaterra. Cansado, ele caminha em rumo ao nada, procurando um 
+lugar para descansar. Ele acha uma fábrica, presumidamente abandonada,
+porém, as coisas não parecem estar boas por lá...
+
+[Iniciando bataha contra Malachi Vane]
+O fundador da fábrica, Malachi Vane, percebe a estranha movimentação do
+caçador na sua fábrica, então ele se prepara para agir, com sua armadura já
+pegando fogo...
+
+[Após matar Sir Malachi Vane]
+Malachi Vane era o antigo proprietário dessa fábrica, e essa luta levou a minha 
+vitória. Ele pensava que os trabalhadores ainda estavam vivos, e faziam eles
+trabalharem eternamente, mas agora, eles estão a salvo...
+
